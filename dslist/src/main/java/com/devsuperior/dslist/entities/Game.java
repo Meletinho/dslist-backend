@@ -22,6 +22,7 @@ public class Game {
     private String platforms;
     private Double score;
     private String imgUrl;
+    //Adcionei esses columns para desabilitar o limite de caracteres
     @Column(columnDefinition = "TEXT")
     private String shortDescription;
     @Column(columnDefinition = "TEXT")
