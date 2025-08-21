@@ -22,8 +22,9 @@ public class Game {
     private String platforms;
     private Double score;
     private String imgUrl;
+    @Column(columnDefinition = "TEXT")
     private String shortDescription;
-    @Column(length = 1000)
+    @Column(columnDefinition = "TEXT")
     private String longDescription;
 
 
