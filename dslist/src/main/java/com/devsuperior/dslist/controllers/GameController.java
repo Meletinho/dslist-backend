@@ -12,6 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+
+//Endpoint criado respeitando as camadas do projeto
 @RestController
 @RequestMapping(value = "/games")
 public class GameController {
