@@ -7,7 +7,8 @@ O **DSList** é uma API RESTful completa para gerenciamento de listas personaliz
 ## 🏗️ Arquitetura e Padrões
 
 ### Estrutura do Projeto
-![Estrutura do Projeto](Captura%20de%20tela%202025-07-30%20213602.png)
+<img width="437" height="451" alt="image" src="https://github.com/user-attachments/assets/34226c67-7504-4383-a553-a8c65330261e" />
+
 
 ### Estrutura em Camadas
 ```
