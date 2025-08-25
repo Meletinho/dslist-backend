@@ -103,6 +103,12 @@ Content-Type: application/json
 }
 ```
 
+<img width="686" height="486" alt="Captura de tela 2025-08-03 025139" src="https://github.com/user-attachments/assets/54bce5c7-e380-43b3-ba04-339943f23257" />
+
+<img width="1328" height="591" alt="Captura de tela 2025-08-03 161158" src="https://github.com/user-attachments/assets/6a2802bf-fb07-40d2-aaaa-1946b65501bf" />
+
+
+
 ### Fluxo da Operação
 1. **Validação** dos índices de origem e destino
 2. **Busca** da lista atual de jogos
