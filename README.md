@@ -14,15 +14,8 @@ O **DSList** é uma API RESTful completa para gerenciamento de listas personaliz
 # 🏗️ Arquitetura e Padrões
 
 # Estrutura em Camadas
-```
-src/
-├── 📁 controllers      # Camada de apresentação (Endpoints REST)
-├── 📁 services         # Lógica de negócio e regras
-├── 📁 repositories     # Camada de persistência (Spring Data JPA)
-├── 📁 dtos             # Objetos de Transferência de Dados
-├── 📁 entities         # Entidades JPA (Mapeamento ORM)
-└── 📁 resources        # Configurações e data seeding
-```
+<img width="307" height="260" alt="image" src="https://github.com/user-attachments/assets/eb003aed-928a-46eb-a001-d5b70186c143" />
+
 
 # Padrões Implementados
 - **Arquitetura RESTful** - Endpoints sem estado e recursos bem definidos
