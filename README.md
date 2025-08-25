@@ -40,7 +40,7 @@ src/
 
 ## 🛠️ Tecnologias
 
-- **Spring Boot 3.2.0** - Framework principal da aplicação
+- **Spring Boot 3.3x** - Framework principal da aplicação
 - **Spring Data JPA** - Persistência e consultas de dados
 - **Spring Web MVC** - Construção de APIs REST
 - **H2 Database** - Banco em memória para desenvolvimento
@@ -51,7 +51,7 @@ src/
 ## 🚀 Como Executar
 
 ### Pré-requisitos
-- Java 17+
+- Java 21
 - Docker e Docker Compose
 - Maven 3.6+
 
