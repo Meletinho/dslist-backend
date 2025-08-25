@@ -1,8 +1,5 @@
 # 📋 DSList - Gerenciamento de Listas de Jogos
 
-<img width="307" height="260" alt="image" src="https://github.com/user-attachments/assets/eb003aed-928a-46eb-a001-d5b70186c143" />
-
-
 
 ![DSList Architecture](https://via.placeholder.com/800x400.png?text=DSList+Architecture+Diagram)
 *Diagrama da arquitetura do projeto*
