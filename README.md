@@ -1,9 +1,8 @@
 # 📋 DSList - Gerenciamento de Listas de Jogos
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.0-green.svg)
-![Java](https://img.shields.io/badge/Java-17-blue.svg)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-DD8A00.svg)
-![Docker](https://img.shields.io/badge/Docker-✓-2496ED.svg)
+<img width="307" height="260" alt="image" src="https://github.com/user-attachments/assets/eb003aed-928a-46eb-a001-d5b70186c143" />
+
+
 
 ![DSList Architecture](https://via.placeholder.com/800x400.png?text=DSList+Architecture+Diagram)
 *Diagrama da arquitetura do projeto*
